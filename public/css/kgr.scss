@@ -1,0 +1,554 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'NS';
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+    font-weight: 400;
+}
+li{
+    list-style: none;
+}
+ul{
+    padding: 0;
+}
+.center{
+    text-align: center;
+ }
+ .g{color: #7FAC34;}
+
+ .fw100{
+    font-weight: 100 !important;
+ }
+
+
+ .fw600{
+    font-weight: 600 !important;
+ }
+ .ft18{font-size: 18px;}
+header{
+    backdrop-filter: blur(15px);
+    background-color: rgba(255, 255, 255, 0.6);
+   img{
+    height: 30px;
+   }
+   li{
+
+    &.active{
+        a{
+            color: #7FAC34 !important; 
+        }
+    }
+    
+    i{
+        color: #7FAC34;
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+    a{
+        color: black;
+        font-size: 15px;
+        font-weight: 500;
+        
+
+        &:hover{
+            color: #7FAC34 !important;
+        }
+    }
+   }
+ 
+    @media screen and (max-width: 768px) {
+        li:first-child {
+            display: none;
+    } 
+        }
+   
+ 
+  
+    #event{
+        background-color: #7FAC34;
+        font-size: 15px;
+    }
+    button{
+        font-family: 'NS';
+        border: 0;
+        background-color: #7FAC34;
+
+        
+    }
+     i{
+        font-size: 20px;
+       color: white;
+       line-height: 0;
+    }
+}
+#content{
+    padding-top: 130px;
+    .swiper{
+        border-radius: 15px;
+    .swiper-slide{
+        min-height:370px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+       
+    }
+   }
+    
+.bg1{
+   
+    background-image: url(../img/slide1.jpg);
+    
+ 
+}
+.bg2{
+  
+    background-image: url(../img/slide2.jpg);
+    
+}
+.bg3{
+    
+    background-image: url(../img/slide3.jpg);
+   
+}
+.bg4{
+   
+    background-image: url(../img/slide4.jpg);
+   
+}
+}
+
+section{
+    
+   #metitle button{
+        padding: 12px 0;
+        border: solid 2px #7FAC34;
+        background-color: white;
+        border-radius: 6px;
+        width: 90%;
+        a{
+            color: #7FAC34;
+            text-decoration: none;
+           
+        }
+    }
+    a:hover{
+        color: #7FAC34;  
+    }
+    #menulist>li{
+        font-size: 22px;
+    }
+}
+
+#navbar-nav ul{
+    width: 100%;
+}
+
+@media (min-width: 768px) and (max-width: 1920px) {
+    #navbar-nav ul {
+        align-items: center;
+    
+    }
+  }
+// header css 부분 끝
+
+#mainBanner{
+    .swiper-pagination-bullet{
+        width:13px;
+        height:13px;
+        &.swiper-pagination-bullet-active{
+           background-color:#7FAC34
+
+        }
+    }
+
+}
+#muti{
+    text-align: center;
+}
+#metab{
+  li:hover button{
+    color: #7FAC34;
+  }
+    li button{
+        height: 40px;
+        padding: 0 16px;
+        border: #ddd 1px solid;
+        border-radius: 40px;
+        color: #777;
+        background-color: white;
+        box-sizing: border-box;
+    }
+
+}
+#mepick{padding: 10px 0;}
+
+.youtubebox{
+    > div{
+    height: 0;
+    padding-top: 54%;
+    border-radius: 22px;
+        iframe{
+            height: 100%; 
+            left:0; 
+            top:0;
+        }
+   }
+}
+
+#deco strong{
+    font-size: 20px;
+    color: #212529;
+  
+}
+
+section #menulist > li{
+font-size: 18px;
+font-weight: 300;
+}
+
+#metitle h3{
+    font-weight: 600;
+    font-size: 29px;   
+    color: #212529;
+}
+.view{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 34px;
+    line-height: 34px;
+    padding: 0 10px;
+    text-align: left;
+    background: rgba(0,0,0,.5);
+    color: white  
+}
+.view:hover{
+    color: #7FAC34;
+}
+
+#explain>p{
+    font-weight: 200;
+ >span{
+   
+    font-weight: 600;
+ }
+}
+#explain strong{
+    font-size: 18px;
+}
+.nonsale{
+    color: #888;
+    font-size: 16px;
+    font-weight: 200;
+    text-decoration: line-through;
+ }
+
+//  menu css 끝
+    
+
+
+ #use{
+        #use1{background-color: #f8f8f8; padding: 100px 0;}
+        #use2{background-image: url(../img/decoback.png);
+            background-repeat: no-repeat;
+            background-size: auto 100%;
+            background-position: center; 
+            padding:90px 0;
+
+            @media  (min-width: 200px) and (max-width: 1024px) {
+                & {
+                  background-image: url(../img/decoback.png); 
+                  background-size: 100%;
+                }
+              }
+                   
+            .container:before{
+                content: "만족스러운 고객들과 함께한 2년 이상의 세월";
+                background-image: url(../img/decoback2.png);
+                position: absolute;
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-position: center;
+                width: 250px;
+                height: 250px;
+                margin-left: 900px;
+                margin-top: 60px;
+                font-size: 16px;
+                color: white;
+                text-align: center;
+                padding: 100px 50px;
+            }
+            @media (max-width: 768px) {
+                .container:before{               
+                  display: none; 
+                }
+            
+            }
+                   
+        }
+        #usede{
+            img{width: 90px;}
+            p{font-weight: 100;}
+            strong{font-size: 23px; color: #7FAC34;}
+            
+        }
+        .f19{font-size: 19px;}
+        .recolor{color: crimson; font-size: 20px;}
+        .review{
+            width: 95px;
+            display: block;
+            margin: 0 auto;
+            height: 80px;
+            } 
+        }
+
+#use2 .swiper { 
+        height: 100%;
+        text-align: center;
+         .swiper-wrapper{
+            width: 650px;
+         }           
+        .swiper-button-prev,
+        .swiper-button-next{
+        position: unset;
+        display: inline-block;
+        margin: 10px 5px ;
+        width:2rem;
+        height:2em;      
+        border-radius: 50%;
+        border:2px solid #7FAC34
+        
+        
+    }
+    .swiper-button-prev:after,
+    .swiper-button-next:after{
+        font-size: 18px;
+        color: #7fac34;
+        line-height: 1.8rem;    
+        font-family: bootstrap-icons!important;
+
+    }
+    .swiper-button-prev:after{
+        content: "\F284";
+    }
+    .swiper-button-next:after{
+        content: "\F285";
+    }
+    #reviewswiper{
+        background-color: rgba(255, 255, 255, 0.783);
+        border-radius: 20px;
+       >div{padding: 15px 10px;}
+       .re1{
+        border-bottom: solid 1px gainsboro;
+        padding: 10px 15px;
+        >div{
+            padding: 0 20px;
+            span{
+                font-weight: 100;
+            }
+        }
+       }
+       border: solid 2px #7fac34;
+       .re2{
+        padding: 30px 10px;
+        p{font-weight: 100;}
+        h4{font-weight: 600;}
+       }
+       
+         
+        }    
+ }
+
+//  use css 끝
+
+#Q{
+        h2{
+            font-weight: 600 !important;
+            margin-bottom: 45px;
+        }
+        
+        li>a>div{font-size: 18px;}
+
+        #qna li a {
+            position: relative;
+            display: block;
+            padding: 30px 0 30px 85px;
+            color: rgb(36, 36, 36);
+        }
+        #qna li a:hover{
+            color: #7FAC34;
+        }
+
+        p,div{
+            line-height: 1.4;
+        } 
+
+        li{
+                border-top: solid 1px gainsboro;
+                border-bottom: solid 1px gainsboro;
+                margin-top: -1px;
+        }
+
+        li>a>div:after{
+            content: "";
+            position: absolute;
+            left: 30px;
+            top: 23px;
+            background: url(../img/qnaicon1.jpg) no-repeat;
+            width: 34px;
+            height: 34px;
+
+        }
+        #qna div p {
+            position: relative;
+            display: block;
+            padding: 15px 0 30px 85px;
+        }
+
+        li div>p:after{
+            content: "";
+            position: absolute;
+            left: 28px;
+            top: 25px;
+            background: url(../img/qnaicon2.jpg) no-repeat;
+            width: 34px;
+            height: 34px;
+
+        }
+        .answer {
+            max-height: 0;
+            opacity: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out, opacity 0.5s ease-out;
+        }
+
+        .answer.active {
+            max-height: 100px; 
+            opacity: 1;
+            transition: max-height 0.5s ease-in, opacity 0.5s ease-in;
+        }
+}
+
+// Q css 끝
+
+#form{
+
+ .email input{
+    width: 70%;
+    border-radius: 5px;
+    background: #eee;
+    color: #222;
+    font-size: 14px;
+ } 
+
+ #emailsection {
+    .show {
+        display: none;
+    }
+
+    &.act {
+        .email-select {
+            margin-right: 5px;
+        }
+
+        .show {
+            display: block;
+        }
+    }
+}
+select{
+    width: 25%;
+}
+.kakao:after{
+    content: "";
+    background-image: url(../img/kakao_icon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+}
+
+
+
+      
+ //form css 끝
+
+
+ #ft{
+    font-family: 'SUITE';
+    font-weight: 500;
+    background-color: #F9FCF3;
+   
+    #ft1{
+        img{
+            height: 30px;
+        }
+    }
+
+   li{
+    font-weight: 600;
+    >a{
+        font-size: 20px;
+        font-weight: 600;
+        color: black;
+       }
+       >a:hover{
+        color: #7FAC34;
+       }
+    >span{
+        padding: 0 10px 0 0;
+    }      
+   }
+
+   #quickmenu{
+    position: fixed;
+    bottom: 110px;
+    right: 14px;
+    width: 213px;
+    z-index: 1000;
+    #qiuck-lg img {
+        width: 100%; 
+    }
+
+    @media screen and (max-width: 768px) {
+        #qiuck-lg {
+            display: none;
+    } 
+        }
+   }
+   #quickmenu_m{
+    position: fixed;
+    bottom: 110px;
+    right: -135px;
+    width: 213px;
+    z-index: 1000;
+
+    #qiuck-md{
+         img {
+        height: 70px;
+         }
+       
+    }
+
+
+}   
+ 
+ 
+
+}
+
+ 

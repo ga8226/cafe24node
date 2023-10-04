@@ -1,0 +1,318 @@
+ {     
+    "topad" : {
+        "adtitle" : ["지금 가입하면 ", "주스 0원 & 정기배송 15%", " 할인"],
+        "adlink" : "https://saladu.co.kr"
+    },
+    "navi" : [
+        {
+            "nm" : "이용방법",
+            "cls" : "navi use" ,
+            "href" : "use"
+        },
+
+        {
+            "nm" : "메뉴",
+            "cls" : "navi menu" ,
+            "href" : "menu"
+        },
+        {
+            "nm" : "내 몸의소리",
+            "cls" : "navi Q",
+            "href" : "Q"
+        },
+        {
+            "nm" : "창업안내",
+            "cls" : "navi form",
+            "href" : "form"
+        }
+       
+    ]
+    ,
+    "swiperbanner" : [
+        {
+            "bcls" : "1"
+        },
+        {
+            "bcls" : "2"
+        },
+        {
+            "bcls" : "3"
+        },
+        {
+            "bcls" : "4"
+        }
+    ]
+    ,
+    "youtube" :{ 
+            "Ytitle" : "/img/youtubetitle.gif", 
+            "Yalt" : "타이틀" ,
+            "vlink" : "eMkIoyUk3Lk?start=299",
+            "maintitle":"요즘 누가 안 먹고 관리하나요?",
+            "subtitle" : "쉽게 질리는 식단은 bye" ,
+            "adlist": [
+                { 
+                 "listext" : "건강과 맛을 동시에!"
+                },
+                { 
+                 "listext" : "짜여진맛? no! 내가 만드는 나만의 주스"
+                },
+                { 
+                 "listext" : "오직 샐러드유에서만!"
+                }
+            ]} 
+    ,
+     "Tab" :[  {
+            
+                    "btstiltle":{
+                        "bt" : "Best" ,
+                        "btsspan" : "지금 가장 Hot 해요"
+                    },
+                    "menulist":[
+                        {
+                            
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/16/07/14/71/71_detail_019.jpg",
+                            "Malt" : "치즈가득,치즈샐러드"  ,
+                            "Mstorng" : "1050" ,
+                            "Mem" : "주문폭주중" ,
+                            "Mdeco" : "그레놀라 듬뿍들어간",
+                            "Mnm" : "치즈샐러드" ,
+                            "Msale" : "6500" ,
+                            "Mnone" : "8100" 
+                        
+                            
+                        }
+                        ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/19/05/08/239/239_main_085.jpg",
+                            "Malt" : "요거트,꾸덕꾸덕,꾸덕한식감,맛있는"  ,
+                            "Mstorng" : "234" ,
+                            "Mem" : "주문중" ,
+                            "Mdeco" : "모두가 즐겨먹는 꾸~~덕한!",
+                            "Mnm" : "리얼요거트" ,
+                            "Msale" : "2900" ,
+                            "Mnone" : "4100" 
+                        
+                        } ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/21/04/15/1000000257/1000000257_main_070.jpg",
+                            "Malt" : "든든한,한끼식사,칼로리적은,균형잡힌"  ,
+                            "Mstorng" : "158" ,
+                            "Mem" : "주문중" ,
+                            "Mdeco" : "칼로리 격파!",
+                            "Mnm" : "곤드레 곤약밥&훈제오리" ,
+                            "Msale" : "4900" ,
+                            "Mnone" : "6400" 
+                            
+                        } ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "http://bontofood.com/web/product/extra/big/202303/2e28533565d1f78b8c015b75750d74be.jpg",
+                            "Malt" : "미니,한끼식사,단백질쉐이크"  ,
+                            "Mstorng" : "58" ,
+                            "Mem" : "현재보는중" ,
+                            "Mdeco" : "운동 후 마시는건 뭐?",
+                            "Mnm" : "단백질쉐이크" ,
+                            "Msale" : "19000" ,
+                            "Mnone" : "23900" 
+                            
+                        } ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/20/08/25/486/486_main_047.jpg",
+                            "Malt" : "깻잎,향"  ,
+                            "Mstorng" : "589" ,
+                            "Mem" : "주문폭주중" ,
+                            "Mdeco" : "출출할땐 역시",
+                            "Mnm" : "그릴 닭가슴살볼 깻잎가득" ,
+                            "Msale" : "2700" ,
+                            "Mnone" : "3500" 
+                        
+                        } ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/20/07/28/367/367_main_085.jpg",
+                            "Malt" : "단백질,양념적은"  ,
+                            "Mstorng" : "44" ,
+                            "Mem" : "담는중" ,
+                            "Mdeco" : "야식이 부담스러워?",
+                            "Mnm" : "닭가슴살 소시지 OR" ,
+                            "Msale" : "2600" ,
+                            "Mnone" : "3500" 
+                        
+                        }
+                    ] 
+                   },
+                    {
+                        
+                        "btstiltle":{
+                            "bt" : "바캉스 준비" ,
+                            "btsspan" : "모든 다이어터들 주목!"
+                        },
+                        "menulist":[
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/16/07/14/72/72_main_074.jpg",
+                            "Malt" : "고기샐러드,단백질"  ,
+                            "Mstorng" : "300" ,
+                            "Mem" : "현재보는중" ,
+                            "Mdeco" : "달달한 고기가 듬~뿍",
+                            "Mnm" : "불고기셀러드" ,
+                            "Msale" : "7900" ,
+                            "Mnone" : "9800" 
+                        
+                            
+                        }
+                        ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/22/12/50/1000000485/1000000485_main_081.jpg",
+                            "Malt" : "채소,샐러디,비타민"  ,
+                            "Mstorng" : "800" ,
+                            "Mem" : "주문중" ,
+                            "Mdeco" : "급찐 급빠!",
+                            "Mnm" : "레드비트믹스샐러드" ,
+                            "Msale" : "3100" ,
+                            "Mnone" : "5100" 
+                        
+                        } ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://shopping-phinf.pstatic.net/main_3116462/31164628034.20230228121451.jpg?type=f640",
+                            "Malt" : "한끼식사,칼로리적은"  ,
+                            "Mstorng" : "600" ,
+                            "Mem" : "주문중" ,
+                            "Mdeco" : "간식계의 여왕",
+                            "Mnm" : "단백질바" ,
+                            "Msale" : "1900" ,
+                            "Mnone" : "3200" 
+                            
+                        } ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://shopping-phinf.pstatic.net/main_2495283/24952832786.1.20230713015209.jpg?type=f640",
+                            "Malt" : "간식,젤리,곤약젤리"  ,
+                            "Mstorng" : "58" ,
+                            "Mem" : "현재보는중" ,
+                            "Mdeco" : "다이어트 젤리 포기가 어려워?",
+                            "Mnm" : "곤약젤리" ,
+                            "Msale" : "1200" ,
+                            "Mnone" : "690" 
+                            
+                        } ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/20/07/28/371/371_main_090.jpg",
+                            "Malt" : "소시지"  ,
+                            "Mstorng" : "924" ,
+                            "Mem" : "주문폭주중" ,
+                            "Mdeco" : "한국인의 소울은 뭐?",
+                            "Mnm" : "마늘소시지" ,
+                            "Msale" : "2600" ,
+                            "Mnone" : "3500" 
+                        
+                        } ,
+                        {
+                            "Mhref" : "#" ,
+                            "Mpic" : "https://atowertr6856.cdn-nhncommerce.com/data/goods/19/05/08/239/239_main_085.jpg",
+                            "Malt" : "요거트"  ,
+                            "Mstorng" : "80" ,
+                            "Mem" : "담는중" ,
+                            "Mdeco" : "요거트 좋아",
+                            "Mnm" : "리얼요거트" ,
+                            "Msale" : "2600" ,
+                            "Mnone" : "3500" 
+                        
+                        }
+                        ] 
+                    }
+
+            ]
+    ,
+    "Use" : {
+        "explain" : [
+            {
+                "useicon" : "https://cdn-icons-png.flaticon.com/128/3859/3859716.png" ,
+                "usenum" : "당신의 주스를 만들어  보세요" ,
+                "usedeco" : "이제 당도도  재료도 내 마음대로! 남들은 모르는 나만의 주스를 마음껏 제조해 보세요"
+            }
+            ,
+            {
+                "useicon" : "https://cdn-icons-png.flaticon.com/128/2854/2854347.png" ,
+                "usenum" : "배달을 빠르게 집으로 받으세요" ,
+                "usedeco" : "당신의 일주일을 위한 신선한 주스들을 이제 빠르고 간편하게 집 앞으로 배송 받아보세요"
+            } 
+            ,
+            {
+                "useicon" : "https://cdn-icons-png.flaticon.com/128/423/423526.png" ,
+                "usenum" : "맛있고 건강한 주스를 즐기세요" ,
+                "usedeco" : "모든 재료는 지구에 부담을 줄이기 위해 음식물 쓰레기를 최소화 하고 있습니다 내 몸에도 이제 샐러드유로 부담을 줄여보세요"
+            }
+        ] ,
+        "reicon" : "/img/reviewstar.gif" ,
+        "reviewbox" : [
+            {
+                "reimg" : "/img/reback1.png",
+                "rename" : "이*영",
+                "resubde" : "골든샐러디",
+                "retitle" : "역시 샐러드유!" ,
+                "realview" : "채소를 꼭 먹어야 하지만 채소는 먹기 싫은 사람들 내가 직접 만드는 건강주스 마시고 몸도 마음도 가벼워 지세요 이거 먹고 안색도 좋아졌다는 소리 많이 들어요 강추입니다"
+            } ,
+            {
+                "reimg" : "/img/reback2.png",
+                "rename" : "오*주",
+                "resubde" : "새싹샐러디",
+                "retitle" : "작심삼일 타파!" ,
+                "realview" : "채소를 꼭 먹어야 하지만 채소는 먹기 싫은 사람들 내가 직접 만드는 건강주스 마시고 몸도 마음도 가벼워 지세요 이거 먹고 안색도 좋아졌다는 소리 많이 들어요 강추입니다"
+            } ,
+            {
+                "reimg" : "/img/reback3.png",
+                "rename" : "김*미",
+                "resubde" : "건강초보자",
+                "retitle" : "건강 성공적" ,
+                "realview" : "채소를 꼭 먹어야 하지만 채소는 먹기 싫은 사람들 내가 직접 만드는 건강주스 마시고 몸도 마음도 가벼워 지세요 이거 먹고 안색도 좋아졌다는 소리 많이 들어요 강추입니다"
+            } ,
+            {
+                "reimg" : "/img/reback4.png",
+                "rename" : "배*준",
+                "resubde" : "마법의 2주",
+                "retitle" : "다이어트 포기자였는데" ,
+                "realview" : "채소를 꼭 먹어야 하지만 채소는 먹기 싫은 사람들 내가 직접 만드는 건강주스 마시고 몸도 마음도 가벼워 지세요 이거 먹고 안색도 좋아졌다는 소리 많이 들어요 강추입니다"
+            } ,
+            {
+                "reimg" : "/img/reback1.png",
+                "rename" : "이*영",
+                "resubde" : "출출하면 샐러드유",
+                "retitle" : "배고파유? 샐러드유!" ,
+                "realview" : "채소를 꼭 먹어야 하지만 채소는 먹기 싫은 사람들 내가 직접 만드는 건강주스 마시고 몸도 마음도 가벼워 지세요 이거 먹고 안색도 좋아졌다는 소리 많이 들어요 강추입니다"
+            } ,
+            {
+                "reimg" : "/img/reback4.png",
+                "rename" : "오*주",
+                "resubde" : "건강도 맛도",
+                "retitle" : "두마리 토끼 성공!" ,
+                "realview" : "채소를 꼭 먹어야 하지만 채소는 먹기 싫은 사람들 내가 직접 만드는 건강주스 마시고 몸도 마음도 가벼워 지세요 이거 먹고 안색도 좋아졌다는 소리 많이 들어요 강추입니다"
+            }
+        ]
+    } ,
+    "Q" : {
+        "Qtitle" : "가장 자주 하는 질문 Q & A" ,
+        "Qlist" : [
+            {
+                "Q" : "정기배송은 매일 제품을 받아볼 수 있는 건가요?" ,
+                "A" : "샐러드유 정기배송은 일주일에 한 번 배송하고 있습니다.(매일 배송X) 일주일 치 식단을 한 번에 보내드려요.(4주 정기배송 샐러드 주 5일 상품 구매 시 1회 배송 5팩씩, 총 4회 수령)"
+            } ,
+            {
+                "Q" : "적립금 사용기간이 있나요?" ,
+                "A" : "적립금은 별도의 만료일이 없어 회원 탈퇴 직전까지 사용이 가능합니다."
+            } ,
+            {
+                "Q" : "제품 유통기한을 알고 싶어요" ,
+                "A" : "샐러드 신선도 유지기간은 냉장보관시 제조일로부터 7일 이내로 수령 후 6일 이내 드셔주셔야 합니다. (냉동보관 불가)냉동 상품은 최신 제조 상품 순으로 발송해드리고 있으며, 정확한 날짜는 제품에 표기되어 있습니다."
+            }
+        ]
+    }
+}
+

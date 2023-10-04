@@ -1,0 +1,24 @@
+{
+  "name": "nodesql",
+  "version": "1.0.0",
+  "description": "node14버전의 cafe24 특별호스팅으로 제작한 광고웹앱",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./web.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "javascriptnode@kimgarim.cafe24app.com:javascriptnode_kimgarim"
+  },
+  "author": "프론트앤드개발자 김가림",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "concurrently": "^8.2.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
